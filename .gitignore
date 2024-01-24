@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+# local env files
+src/.env
+.env.local
+.env.*.localgit
